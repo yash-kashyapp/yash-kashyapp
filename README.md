@@ -32,7 +32,7 @@ FullStack Developer with 2+ years of experience in developing robust and scalabl
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,express,aws,mongodb,mysql,docker,minio,rabbitmq,linux,git" />
+      <img align="center" src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,express,knex,sequelize,aws,mongodb,mysql,docker,minio,rabbitmq,linux,git" />
     </a>
   </p>
 </div>
